@@ -21,6 +21,7 @@ env/
 # bases de dados genéricas
 *.csv
 *.xlsx
+dados/
 
 # Cache do Python
 __pycache__/
