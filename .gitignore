@@ -1,16 +1,16 @@
-### Ambientes Virtuais ###
+# Ambientes Virtuais
 venv/
 env/
 
-### Jupyter Notebooks ###
+# Jupyter Notebooks
 .ipynb_checkpoints/
 
-### Dados Geográficos e Arquivos Pesados ###
+# Dados Geográficos e Arquivos Pesados
 # Ignora imagens de satélite e mapas de relevo
 *.tif
 *.tiff
 
-# Ignora shapefiles e dados de mapeamento do IBGE/MapBiomas
+# shapefiles e dados de mapeamento do IBGE/MapBiomas
 *.shp
 *.shx
 *.dbf
@@ -18,16 +18,16 @@ env/
 *.geojson
 *.gpkg
 
-# Ignora bases de dados genéricas
+# bases de dados genéricas
 *.csv
 *.xlsx
 
-### Cache do Python ###
+# Cache do Python
 __pycache__/
 *.pyc
 *.pyo
 
-### Configurações de IDE e Sistema Operacional ###
+# Configurações de IDE e Sistema Operacional
 .vscode/
 .DS_Store
 Thumbs.db
