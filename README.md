@@ -20,7 +20,7 @@ This project is a Data-Driven Proof of Concept (PoC) for a Light Rail Transit (V
     **Objective:** Calculate the route of least cost through the city's real road network, avoiding hills and residential expropriations.
 *   `02_mapa_demanda_folium.ipynb`
     **Objective:** Overlay the optimized route with population density heatmaps to validate the chosen path.
-*   `03_simulador_impacto.ipynb`
+*   `03_simulador_impacto.ipynb (future featrue)`
     **Objective:** Quantify the time saved for the average worker comparing the proposed VLT against current bus systems.
 
 ## 🛠️ How to Run
